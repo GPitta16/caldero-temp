@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caldero temp", "caldero temp\caldero temp.csproj", "{28433C5E-8C29-4651-ADA0-C29AECC6EFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28433C5E-8C29-4651-ADA0-C29AECC6EFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28433C5E-8C29-4651-ADA0-C29AECC6EFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28433C5E-8C29-4651-ADA0-C29AECC6EFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28433C5E-8C29-4651-ADA0-C29AECC6EFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB8D1173-DC8B-4557-B35A-618742416C8E}
+	EndGlobalSection
+EndGlobal
